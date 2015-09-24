@@ -7,3 +7,6 @@ Here is how I compile the program and execute it
 3. type make
 
 4. mpirun -np 4 ./gameoflife
+
+
+More examples and tutorials can be found https://people.sc.fsu.edu/~jburkardt/cpp_src/mpi/mpi.html
