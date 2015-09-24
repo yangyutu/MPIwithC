@@ -1,0 +1,9 @@
+Here is how I compile the program and execute it
+
+1. install openmpi: sudo apt-get install libopenmpi-dev
+
+2. install mpirun: sudo apt-get install openmpi-bin
+
+3. type make
+
+4. mpirun -np 4 ./gameoflife
